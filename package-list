@@ -1,6 +1,8 @@
 cn.binarywang.wx.miniapp.api
 cn.binarywang.wx.miniapp.api.impl
 cn.binarywang.wx.miniapp.bean
+cn.binarywang.wx.miniapp.bean.analysis
+cn.binarywang.wx.miniapp.bean.code
 cn.binarywang.wx.miniapp.bean.template
 cn.binarywang.wx.miniapp.builder
 cn.binarywang.wx.miniapp.config
