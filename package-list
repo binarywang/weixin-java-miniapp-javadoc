@@ -8,7 +8,7 @@ cn.binarywang.wx.miniapp.builder
 cn.binarywang.wx.miniapp.config
 cn.binarywang.wx.miniapp.constant
 cn.binarywang.wx.miniapp.message
+cn.binarywang.wx.miniapp.util
 cn.binarywang.wx.miniapp.util.crypt
-cn.binarywang.wx.miniapp.util.http
 cn.binarywang.wx.miniapp.util.json
 cn.binarywang.wx.miniapp.util.xml
