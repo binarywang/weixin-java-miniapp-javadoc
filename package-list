@@ -6,6 +6,7 @@ cn.binarywang.wx.miniapp.bean.code
 cn.binarywang.wx.miniapp.bean.template
 cn.binarywang.wx.miniapp.builder
 cn.binarywang.wx.miniapp.config
+cn.binarywang.wx.miniapp.config.impl
 cn.binarywang.wx.miniapp.constant
 cn.binarywang.wx.miniapp.message
 cn.binarywang.wx.miniapp.util
