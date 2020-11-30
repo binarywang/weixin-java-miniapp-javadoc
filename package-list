@@ -7,13 +7,16 @@ cn.binarywang.wx.miniapp.bean.code
 cn.binarywang.wx.miniapp.bean.express
 cn.binarywang.wx.miniapp.bean.express.request
 cn.binarywang.wx.miniapp.bean.express.result
+cn.binarywang.wx.miniapp.bean.live
 cn.binarywang.wx.miniapp.bean.template
 cn.binarywang.wx.miniapp.builder
 cn.binarywang.wx.miniapp.config
 cn.binarywang.wx.miniapp.config.impl
 cn.binarywang.wx.miniapp.constant
+cn.binarywang.wx.miniapp.executor
+cn.binarywang.wx.miniapp.json
+cn.binarywang.wx.miniapp.json.adaptor
 cn.binarywang.wx.miniapp.message
 cn.binarywang.wx.miniapp.util
 cn.binarywang.wx.miniapp.util.crypt
-cn.binarywang.wx.miniapp.util.json
 cn.binarywang.wx.miniapp.util.xml
