@@ -7,12 +7,17 @@ cn.binarywang.wx.miniapp.bean.code
 cn.binarywang.wx.miniapp.bean.express
 cn.binarywang.wx.miniapp.bean.express.request
 cn.binarywang.wx.miniapp.bean.express.result
+cn.binarywang.wx.miniapp.bean.internet
+cn.binarywang.wx.miniapp.bean.invoice.reimburse
 cn.binarywang.wx.miniapp.bean.live
 cn.binarywang.wx.miniapp.bean.scheme
+cn.binarywang.wx.miniapp.bean.security
 cn.binarywang.wx.miniapp.bean.shop
 cn.binarywang.wx.miniapp.bean.shop.request
 cn.binarywang.wx.miniapp.bean.shop.response
+cn.binarywang.wx.miniapp.bean.shortlink
 cn.binarywang.wx.miniapp.bean.template
+cn.binarywang.wx.miniapp.bean.urllink
 cn.binarywang.wx.miniapp.builder
 cn.binarywang.wx.miniapp.config
 cn.binarywang.wx.miniapp.config.impl
