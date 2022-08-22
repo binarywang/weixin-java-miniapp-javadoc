@@ -3,6 +3,7 @@ cn.binarywang.wx.miniapp.api.impl
 cn.binarywang.wx.miniapp.bean
 cn.binarywang.wx.miniapp.bean.analysis
 cn.binarywang.wx.miniapp.bean.cloud
+cn.binarywang.wx.miniapp.bean.cloud.request
 cn.binarywang.wx.miniapp.bean.code
 cn.binarywang.wx.miniapp.bean.delivery
 cn.binarywang.wx.miniapp.bean.delivery.base
@@ -14,6 +15,7 @@ cn.binarywang.wx.miniapp.bean.internet
 cn.binarywang.wx.miniapp.bean.invoice.reimburse
 cn.binarywang.wx.miniapp.bean.live
 cn.binarywang.wx.miniapp.bean.marketing
+cn.binarywang.wx.miniapp.bean.product
 cn.binarywang.wx.miniapp.bean.safety.request
 cn.binarywang.wx.miniapp.bean.safety.response
 cn.binarywang.wx.miniapp.bean.scheme
